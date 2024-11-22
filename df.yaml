@@ -1,0 +1,9 @@
+{
+"spec": {
+  "containers": [
+    { 
+      "image": "no image"
+    }
+  ]
+}
+}
